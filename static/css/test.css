@@ -1,0 +1,13 @@
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (   min--moz-device-pixel-ratio: 2), only screen and (     -o-min-device-pixel-ratio: 2/1), only screen and (        min-device-pixel-ratio: 2), only screen and (                min-resolution: 192dpi), only screen and (                min-resolution: 2dppx) {
+
+    .icon-mac {
+        background-image: url(http://192.168.1.105:8099/sprite-42c30a21d9267d8d8c87b2e486d57753-1-png8.png);
+        background-size: 100% 100%;
+        width: 253px;
+        height: 204px;
+        display: inline-block;
+        background-position: 0 0;
+    }
+
+}
+\
