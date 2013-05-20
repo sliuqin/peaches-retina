@@ -1,37 +1,33 @@
 .buystrip li {
     width: 25%;
     float: left;
-
 }
 
 .buystrip li * {
     margin: 0 10px;
+    display: block;
 }
 
 .icon-mac {
     background: url(http://www.apple.com.cn/mac/home/images/buystrip_hero_2x.jpg);
-    width: 253px;
-    height: 204px;
-    display: inline-block;
+    width: auto;
+    height: auto;
 }
 
 .icon-online {
     background: url(http://www.apple.com.cn/mac/home/images/buystrip_online_2x.png);
-    width: 126px;
-    height: 89px;
-    display: inline-block;
+    width: auto;
+    height: auto;
 }
 
 .icon-retail {
     background: url(http://www.apple.com.cn/mac/home/images/buystrip_retail_2x.png);
-    width: 126px;
-    height: 89px;
-    display: inline-block;
+    width: auto;
+    height: auto;
 }
 
 .icon-call {
     background: url(http://www.apple.com.cn/mac/home/images/buystrip_call_2x.png);
-    width: 126px;
-    height: 89px;
-    display: inline-block;
+    width: auto;
+    height: auto;
 }

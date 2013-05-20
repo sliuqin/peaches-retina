@@ -1,4 +1,5 @@
 {
+	"retina":true,
     "output": {
         "./retina.css": [
             "./src/base.css",
