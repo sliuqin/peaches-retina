@@ -1,0 +1,10 @@
+/*----------- ServerNum ---------------*/
+#ServerNum {
+    width: 100%;
+    background: #ededed;
+    color: #ededed;
+}
+#ServerNum p {
+    background-color: #ededed;
+    text-align: center;
+}

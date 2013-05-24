@@ -1,0 +1,101 @@
+/*----------- about -------------*/
+.about {
+    height: 58px;
+    padding: 20px 0;
+    border-top: 1px solid #ffffff;
+    background: #f9f9f9;
+}
+
+.about-item {
+    width: 270px;
+    height: 55px;
+    float: left;
+    margin-right: 90px;
+    position: relative;
+}
+
+.about-item-last {
+    margin-right: 0;
+}
+
+.about-item .title {
+    width: 220px;
+    margin-left: 50px;
+    height: 30px;
+    text-indent: -9999em;
+}
+
+.about-item .icon-title-safety {
+    width: auto;
+    background: url(https://i.alipayobjects.com/e/201305/KHyg4XtET.png);
+}
+
+.about-item .icon-title-vip {
+    width: auto;
+    background: url(https://i.alipayobjects.com/e/201305/KI8bwySGD.png);
+}
+
+.about-item .icon-title-abc {
+    width: auto;
+    background: url(https://i.alipayobjects.com/e/201305/KJIJba0eD.png);
+}
+
+.about-item .ui-link {
+    width: 310px;
+    height: 16px;
+    padding: 0px 0;
+    position: relative;
+    left: 50px;
+}
+
+.about-item .ui-link-item {
+    line-height: 16px;
+    font-size: 14px;
+}
+
+.about-item .ui-link-item a {
+    color: #999;
+}
+
+.about-item .ui-link-item a:hover {
+    color: #ff6600;
+}
+
+.about-item .ui-link-item-last {
+    padding-right: 6px;
+}
+
+.about-item .icon-about {
+    position: absolute;
+    top: 3px;
+    left: 0;
+    width: 46px;
+    height: 46px;
+    display: block; 
+}
+
+.about-item .icon-about-safety {
+    background: url(https://i.alipayobjects.com/e/201305/KJ98UE6sv.png);
+}
+
+.about-item .icon-about-vip {
+    background: url(https://i.alipayobjects.com/e/201305/KIOQaIgp3.png);
+}
+
+.about-item .icon-about-abc {
+    background: url(https://i.alipayobjects.com/e/201305/KJDwSAV5h.png);
+}
+
+#safety {
+    _margin-right: 43px;
+}
+
+#safety .follow_wrapper { 
+    float: left;
+    height: 22px;
+    margin-top: -3px;
+    margin-top: -2 px\0; /* ie 8/9*/
+    margin-top: -3 px\9\0; /* ie 9*/
+    *margin-top: -4px;
+}
+

@@ -1,0 +1,15 @@
+/*----------- follow_btn ---------------*/
+.follow_btn, .follow_btn:hover {
+    display: inline-block;
+    text-indent: -99999px;
+    width: auto;
+    height: auto;
+}
+
+.follow_btn {
+    background: url(https://i.alipayobjects.com/e/201305/KJRUsipRV.png);
+}
+
+.follow_btn:hover {
+    background: url(https://i.alipayobjects.com/e/201305/KJRV88q4j.png);
+}

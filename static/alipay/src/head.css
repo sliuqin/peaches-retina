@@ -1,0 +1,24 @@
+.header {
+    width: 100%;
+    height: 78px;
+    background: #ffffff;
+}
+
+.header-wrap {
+    height: 60px;
+    padding-top: 18px;
+}
+
+#logo-noflash {
+    background: url(https://i.alipayobjects.com/e/201207/36PCiRAolN.jpg);
+    width: 260px;
+    height: 45px;
+}
+
+.ui-logo-alipay {
+    background: url(https://i.alipayobjects.com/e/201305/MZJ4jRSkn.png);
+    width: 260px;
+    height: 45px;
+    display: block;
+    text-indent: -9999px;
+}

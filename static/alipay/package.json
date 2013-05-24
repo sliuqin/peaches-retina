@@ -1,0 +1,20 @@
+{
+    "retina":true,
+    "output": {
+        "./resources/homeindex.css": [
+            "./src/base.css",
+            "./src/topbar.css",
+            "./src/head.css",
+            "./src/nav.css",
+            "./src/login.css",
+            "./src/banner.css",
+            "./src/serverlink.css",
+            "./src/main.css",
+            "./src/about.css",
+            "./src/footer.css",
+            "./src/servernum.css",
+            "./src/fllowbtn.css",
+            "./src/business-pic.css"
+        ]
+    }
+}

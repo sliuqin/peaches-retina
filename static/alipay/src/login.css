@@ -1,0 +1,36 @@
+/*----------- login ---------------*/
+.login-box { height: 0; margin: 0 auto; position: relative; width: 990px; zoom:1; z-index:120; }
+#loginIframe { position: absolute; right: 0; top: 12px; }
+#loginLoading {
+    position:absolute;
+    right: 0;
+    top: 12px;
+    width:286px;
+    height:311px;
+    background:rgba(0, 0, 0, 0.2);
+    text-align:center;
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#33000000', EndColorStr='#33000000');
+}
+:root #loginLoading {
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#00000000', EndColorStr='#00000000')\9;
+}
+#loginLoading img {
+    width:50px;
+    height:50px;
+    margin-top:120px;
+}
+.head-notice,.pa-head-notice{
+    width:972px;
+    border: 1px solid  #CCC;
+    margin:5px auto 3px;
+    padding: 6px 8px 6px 8px;
+    line-height:  18px;
+    text-align:center;
+    font-size: 12px;
+    font-weight:bold;
+    color: red;
+}
+#indexBanner { width: 990px; margin: 5px auto 0; }
+#indexBanner a { display: inline-block; overflow: hidden; }
+#indexBanner img { display: block; }
+#indexBanner a.fn-hide { display: none; }

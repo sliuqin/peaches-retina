@@ -1,0 +1,106 @@
+/*----------- main --------------*/
+.main {
+    width: 100%;
+    height: 260px;
+    background: #f9f9f9;
+}
+
+.product {
+    height: 160px;
+    border-bottom: 1px solid #e6e6e6;
+    background: #f9f9f9;
+}
+
+.product-item {
+    width: 340px;
+    height: auto;
+    float: left;
+    margin: 25px 20px 0 0;
+}
+
+.product-item .title {
+    width: 270px;
+    height: 30px;
+    margin-top: 10px;
+    text-indent: -9999em;
+    overflow: hidden;
+}
+
+.product-item .title-link {
+    display: block;
+    height: 30px;
+}
+
+#pay-quickly .title-link {
+    width: auto;
+    background: url(https://i.alipayobjects.com/e/201305/KLqSkg3JV.png);
+}
+
+#pay-life .title-link {
+    width: auto;
+    background: url(https://i.alipayobjects.com/e/201305/KLtcOkdTZ.png);
+}
+
+#pay-anywhere .title-link {
+    width: auto;
+    background: url(https://i.alipayobjects.com/e/201305/MZDle8V09.png);
+}
+
+.product-item .ui-link {
+    padding: 6px 0;
+    font-size: 14px;
+}
+
+.product-item .ui-link-item {
+    line-height: 16px;
+}
+
+.product-item a:hover {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+.product-item .link {
+    margin-bottom: 10px;
+    padding: 4px 0 4px 0px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+.product-item .link .icon-youhui {
+    width: auto;
+    height: auto;
+    margin-right: 5px;
+    display: inline-block;
+    vertical-align: middle;
+    background: url(https://i.alipayobjects.com/e/201305/KLj1ZhkDV.png);
+}
+
+.product-item .picture {
+    width: 270px;
+    height: 45px;
+}
+
+.product-item .picture img {
+    vertical-align: middle;
+}
+
+.product-item .picture .kuaijie {
+    height: 45px;
+    display: inline-block;
+}
+
+.product-item .picture .icon {
+    margin: 3px 11px 3px 0;
+    display: inline-block;
+}
+
+.product-item .picture .client {
+    height: 36px;
+    display: inline-block;
+}
+
+.product-item-last {
+    width: 270px;
+    margin-right: 0;
+}
