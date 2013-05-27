@@ -1,5 +1,6 @@
 {
     "retina":true,
+    "sort":"v",
     "output": {
         "./resources/homeindex.css": [
             "./src/base.css",

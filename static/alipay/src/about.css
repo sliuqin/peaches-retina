@@ -20,9 +20,10 @@
 
 .about-item .title {
     width: 220px;
-    margin-left: 50px;
+    margin-left: 60px;
     height: 30px;
     text-indent: -9999em;
+    margin-bottom: 2px;
 }
 
 .about-item .icon-title-safety {
@@ -45,7 +46,7 @@
     height: 16px;
     padding: 0px 0;
     position: relative;
-    left: 50px;
+    left: 60px;
 }
 
 .about-item .ui-link-item {

@@ -130,12 +130,12 @@
 }
 .slide-number {  padding: 8px 0 9px 0; width: 120px; margin-left: -60px; text-align: center; position: absolute; bottom: 0px; left: 50%; }
 .slide-number a { float: left; width: 14px; height: 14px; display: block; margin: 0 10px 0 0;
-    background: url(https://i.alipayobjects.com/e/201303/2OkkoA3Div.png) no-repeat 0 0px;
+    background: url(https://i.alipayobjects.com/e/201305/OtmjFyuej.png);
     text-indent: -9999em; overflow: hidden; outline:none;
 }
 .slide-number a::moz-focus-inner{border:0;}
 .slide-number .slide-number-active {
-    background: url(https://i.alipayobjects.com/e/201303/2OkidhSALl.png) no-repeat 0 0;
+    background: url(https://i.alipayobjects.com/e/201305/OtmjFyvR7.png);
 }
 
 /** banner 动画效果 **/

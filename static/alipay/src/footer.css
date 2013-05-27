@@ -27,7 +27,7 @@
 
 .partner-item .title {
     line-height: 18px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 
 .partner-item .title span {
@@ -59,20 +59,12 @@
 }
 
 .partner-item .cnt .business-pic {
-    margin-top: 5px;
-    height: 20px;
-    background: url(https://i.alipayobjects.com/e/201305/NRhq3TxWP.png) no-repeat 0 0;
+    width: auto;
+    height: auto;
+    background: url(https://i.alipayobjects.com/e/201305/P2LJKTgc1.png);
     display: block;
-    width: 205px;
+    
 }
-
-.partner-item .cnt .business-pic-last {
-    width: 205px;
-    margin-top: 2px;
-    height: 20px;
-    display: block;
-}
-
 
 
 .partner-item .ui-list-item {
@@ -81,32 +73,30 @@
 }
 
 .partner-item .ui-list-item .icon-list {
-    width: 15px;
-    height: 14px;
+    width: auto;
+    height: auto;
     display: inline-block;
     background: url(https://i.alipayobjects.com/e/201305/NRyo6xONB.png);
-    vertical-align: middle;
 }
 
 .icon-partner-bank {
     width: auto;
-    height: 50px;
+    height: auto;
     display: block;
-    background: url(https://i.alipayobjects.com/e/201305/NRuQmGISz.png);
+    background: url(https://i.alipayobjects.com/e/201305/P29ZKE19J.png);
 }
 
 .icon-partner-security {
     width: auto;
-    height: 50px;
+    height: auto;
     display: block;
-    background: url(https://i.alipayobjects.com/e/201305/NRtYIJiE9.png);
+    background: url(https://i.alipayobjects.com/e/201305/P2aLOrVG9.png);
 }
 
 .J-RotateList {
     height: 48px;
     width: 270px;
     overflow: hidden;
-    margin-top: 5px;
     position: relative;
 }
 
@@ -168,110 +158,110 @@
 }
 
 .auth .icon-zfywxk {
-    width: 40px;
-    height: 35px;
-    background: url(https://i.alipayobjects.com/e/201305/Npa5RDNSf.png);
+    width: auto;
+    height: auto;
+    background: url(https://i.alipayobjects.com/e/201305/P15R8jn25.png);
     margin-right: 15px;
 }
 
 .auth .icon-zfywxk:hover {
-    background: url(https://i.alipayobjects.com/e/201305/NpZcBV5PJ.png);
+    background: url(https://i.alipayobjects.com/e/201305/P0pdJtM4r.jpg);
 }
 
 .auth .icon-pcirk {
     width: auto;
     height: auto;
-    background: url(https://i.alipayobjects.com/e/201305/NpkYM3K4r.png);
+    background: url(https://i.alipayobjects.com/e/201305/P1Y7UUNk5.png);
     margin-right: 16px;
 }
 
 .auth .icon-pcirk:hover {
-    background: url(https://i.alipayobjects.com/e/201305/NpkYmdpvx.png);
+    background: url(https://i.alipayobjects.com/e/201305/P19YdrlwL.jpg);
 }
 
 .auth .icon-visayz {
     width: auto;
     height: auto;
-    background: url(https://i.alipayobjects.com/e/201305/NpqMJ6VOX.png);
+    background: url(https://i.alipayobjects.com/e/201305/P1c8Z152b.png);
     margin-right: 14px;
 }
 
 .auth .icon-visayz:hover {
-    background: url(https://i.alipayobjects.com/e/201305/NpqMlJd1Z.png);
+    background: url(https://i.alipayobjects.com/e/201305/P1c8yDx41.jpg);
 }
 
 .auth .icon-vsjmfw {
     width: auto;
     height: auto;
-    background: url(https://i.alipayobjects.com/e/201305/Nq4xoEBMb.png);
+    background: url(https://i.alipayobjects.com/e/201305/P1gbHGGOr.png);
     margin-right: 13px;
 }
 
 .auth .icon-vsjmfw:hover {
-    background: url(https://i.alipayobjects.com/e/201305/Nq4yBDLfJ.png);
+    background: url(https://i.alipayobjects.com/e/201305/P1gbIH7u1.jpg);
 }
 
 .auth .icon-zjwm {
-    width: 32px;
-    height: 35px;
-    background: url(https://i.alipayobjects.com/e/201303/2NwLTGPwn7.png) no-repeat 0 0;
+    width: auto;
+    height: auto;
+    background: url(https://i.alipayobjects.com/e/201305/P1huc1EhZ.png);
     margin-right: 14px
 }
 
 .auth .icon-zjwm:hover {
-    background: url(https://i.alipayobjects.com/e/201303/2NwLty5e69.png) no-repeat 0 0;
+    background: url(https://i.alipayobjects.com/e/201305/P1hucxg0j.jpg);
 }
 
 .auth .icon-wlgs {
-    width: 25px;
-    height: 35px;
-    background: url(https://i.alipayobjects.com/e/201303/2NwMfmY6Qn.png) no-repeat 0 0;
+    width: auto;
+    height: auto;
+    background: url(https://i.alipayobjects.com/e/201305/P1kzY1bRl.png);
     margin-right: 17px;
 }
 
 .auth .icon-wlgs:hover {
-    background: url(https://i.alipayobjects.com/e/201303/2NwN9Okaub.png) no-repeat 0 0;
+    background: url(https://i.alipayobjects.com/e/201305/P1rGzw8LV.jpg);
 }
 
 .auth .icon-ppaa {
-    width: 31px;
-    height: 35px;
-    background: url(https://i.alipayobjects.com/e/201303/2NwNlNs0mD.png) no-repeat 0 0;
+    width: auto;
+    height: auto;
+    background: url(https://i.alipayobjects.com/e/201305/P1lpZ2ft7.png);
     margin-right: 12px;
 }
 
 .auth .icon-ppaa:hover {
-    background: url(https://i.alipayobjects.com/e/201303/2NwOEzgIDV.png) no-repeat 0 0;
+    background: url(https://i.alipayobjects.com/e/201305/P1s6zZRvh.jpg);
 }
 
 .auth .icon-hzdt {
-    width: 30px;
-    height: 35px;
-    background: url(https://i.alipayobjects.com/e/201303/2NwOw015oj.png) no-repeat 0 0;
+    width: auto;
+    height: auto;
+    background: url(https://i.alipayobjects.com/e/201305/P4A4U0PLh.png);
     margin-right: 10px;
 }
 
 .auth .icon-hzdt:hover {
-    background: url(https://i.alipayobjects.com/e/201303/2NwPbuFLYD.png) no-repeat 0 0;
+    background: url(https://i.alipayobjects.com/e/201305/P4A47cQST.png);
 }
 
 .auth .icon-aqff {
-    width: 41px;
-    height: 35px;
-    background: url(https://i.alipayobjects.com/e/201303/2NwQ111LfJ.png) no-repeat 0 0;
+    width: auto;
+    height: auto;
+    background: url(https://i.alipayobjects.com/e/201305/P1lq4hAhp.png);
     margin-right: 12px;
 }
 
 .auth .icon-aqff:hover {
-    background: url(https://i.alipayobjects.com/e/201303/2NwQV1WzxF.png) no-repeat 0 0;
+    background: url(https://i.alipayobjects.com/e/201305/P1lqI1EMn.jpg);
 }
 
 .auth .icon-rzcx {
-    width: 75px;
-    height: 35px;
-    background: url(https://i.alipayobjects.com/e/201303/2NwR0V9f3d.png) no-repeat 0 0;
+    width: auto;
+    height: auto;
+    background: url(https://i.alipayobjects.com/e/201305/P1sFkbrOf.png);
 }
 
 .auth .icon-rzcx:hover {
-    background: url(https://i.alipayobjects.com/e/201303/2NwRSNCyw1.png) no-repeat 0 0;
+    background: url(https://i.alipayobjects.com/e/201305/P1sQWX98X.jpg);
 }

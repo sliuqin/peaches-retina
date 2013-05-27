@@ -33,17 +33,17 @@
 
 #pay-quickly .title-link {
     width: auto;
-    background: url(https://i.alipayobjects.com/e/201305/KLqSkg3JV.png);
+    background: url(https://i.alipayobjects.com/e/201305/P3rsoyv6z.png);
 }
 
 #pay-life .title-link {
     width: auto;
-    background: url(https://i.alipayobjects.com/e/201305/KLtcOkdTZ.png);
+    background: url(https://i.alipayobjects.com/e/201305/P3ttjjZw5.png);
 }
 
 #pay-anywhere .title-link {
     width: auto;
-    background: url(https://i.alipayobjects.com/e/201305/MZDle8V09.png);
+    background: url(https://i.alipayobjects.com/e/201305/P3vTtKFSn.png);
 }
 
 .product-item .ui-link {
@@ -70,7 +70,7 @@
 .product-item .link .icon-youhui {
     width: auto;
     height: auto;
-    margin-right: 5px;
+    margin:-4px 5px 0 0;
     display: inline-block;
     vertical-align: middle;
     background: url(https://i.alipayobjects.com/e/201305/KLj1ZhkDV.png);
