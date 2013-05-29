@@ -27,7 +27,9 @@
     } catch(msg) {}
     }
     </script>
+    
     <![endif]-->
+      
     <link rel="shortcut icon" href="https://i.alipayobjects.com/common/favicon/favicon.ico" type="image/x-icon" />
     <!-- 全站页面效率统计开始:alipay/tracker/tracker_time.vm -->
     <script>
@@ -80,26 +82,64 @@
     </script>
    </head>
   <body role="document">
-    <div class="topbar">
-      <div class="grid-990 topbar-wrap fn-clear">
-        <p class="toplink">
-        <a href="http://mobile.alipay.com/index.htm" class="mobile" target="_blank"><i class="icon-mobile"></i>手机支付宝</a>
-        </p>
-        <ul class="topmenu">
-          <li class="topmenu-item topmenu-item-first"><a href="https://auth.alipay.com/login/index.htm" target="_blank" title="登录">登录</a><b class="split">-</b><a href="https://memberprod.alipay.com/account/reg/index.htm" target="_blank" title="注册">注册</a></li>
-          <li class="topmenu-item topmenu-item-dropdown" id="J-topmenu-dropdown">
-          <a href="https://lab.alipay.com/user/i.htm" target="_blank">我的支付宝<i class="icon-dropdown"></i></a>
-          <ul class="ui-list">
-            <li class="ui-list-item"><a href="https://lab.alipay.com/user/depositDelegateController.htm" target="_blank">充值</a></li>
-            <li class="ui-list-item"><a href="https://lab.alipay.com/consume/record/index.htm" target="_blank">交易记录</a></li>
-            <li class="ui-list-item"><a href="https://shenghuo.alipay.com/transfer/index.htm" target="_blank">转账</a></li>
-          </ul>
-          </li>
-          <li class="topmenu-item topmenu-item-last"><a href="http://help.alipay.com/lab/index.htm" target="_blank" title="帮助中心">帮助中心</a></li>
-        </ul>
-      </div>
-    </div>
-        <!-- XT:支付宝首页/默认频道/支付宝新首页开始:www.alipay.com/i/indexb.vm -->    <div id="J_securityNotice" class="head-notice pa-head-notice fn-hide" style="border:1px solid #fce4b5;background-color:#fff7da;color:#e27839;font-weight:normal;">
+  <!--[if IE 6]>
+  <div id="kie-bar" class="kie-bar">
+      用ie的都是大傻逼哈哈
+      <a href="http://ie.alipay.com/download" seed="kie-setup-IE8" target="_blank" style="background-image:url(https://i.alipayobjects.com/e/201305/L4BmN2qgf.png)"><i class="kie-bar-icon-ie"></i>安装IE8浏览器</a>
+      <a href="https://securitycenter.alipay.com/sc/partner/browser.htm" seed="kie-setup-IE8" target="_blank" style="background-image:url(https://i.alipayobjects.com/e/201305/L4F7IhQft.png)"><i class="kie-bar-icon-chrome"></i>安装谷歌浏览器</a>
+  </div>
+  <style>
+      .kie-bar {
+          height: 24px;
+          line-height: 1.8;
+          font-weight:normal;
+          text-align: center;
+          border-bottom:1px solid #fce4b5;
+          background-color:#FFFF9B;
+          color:#e27839;
+          position: relative;
+          font-size: 14px;
+          text-shadow: 0px 0px 1px #efefef;
+          padding: 5px 0;
+      }
+      .kie-bar a {
+          color:#e27839;
+          text-decoration: none;
+          padding-left: 25px;
+          background-repeat: no-repeat;
+          background-position: 5px 0px;
+      }
+      .kie-bar-icon-ie , .kie-bar-icon-chrome{
+          background-image: url(https://i.alipayobjects.com/e/201305/Pl6skWJrh.png);
+          width:16px;
+          height: 16px;
+          background-position: 0 0;
+      }
+      .kie-bar-icon-chrome{
+          background-position: -16px 0;
+      }
+  </style>
+  <![endif]-->
+   <div class="topbar">
+     <div class="grid-990 topbar-wrap fn-clear">
+       <p class="toplink">
+       <a href="http://mobile.alipay.com/index.htm" class="mobile" target="_blank"><i class="icon-mobile"></i>手机支付宝</a>
+       </p>
+       <ul class="topmenu">
+         <li class="topmenu-item topmenu-item-first"><a href="https://auth.alipay.com/login/index.htm" target="_blank" title="登录">登录</a><b class="split">-</b><a href="https://memberprod.alipay.com/account/reg/index.htm" target="_blank" title="注册">注册</a></li>
+         <li class="topmenu-item topmenu-item-dropdown" id="J-topmenu-dropdown">
+         <a href="https://lab.alipay.com/user/i.htm" target="_blank">我的支付宝<i class="icon-dropdown"></i></a>
+         <ul class="ui-list">
+           <li class="ui-list-item"><a href="https://lab.alipay.com/user/depositDelegateController.htm" target="_blank">充值</a></li>
+           <li class="ui-list-item"><a href="https://lab.alipay.com/consume/record/index.htm" target="_blank">交易记录</a></li>
+           <li class="ui-list-item"><a href="https://shenghuo.alipay.com/transfer/index.htm" target="_blank">转账</a></li>
+         </ul>
+         </li>
+         <li class="topmenu-item topmenu-item-last"><a href="http://help.alipay.com/lab/index.htm" target="_blank" title="帮助中心">帮助中心</a></li>
+       </ul>
+     </div>
+   </div>
+       <!-- XT:支付宝首页/默认频道/支付宝新首页开始:www.alipay.com/i/indexb.vm -->    <div id="J_securityNotice" class="head-notice pa-head-notice fn-hide" style="border:1px solid #fce4b5;background-color:#fff7da;color:#e27839;font-weight:normal;">
       <div class="head-notice-content">
         提醒：由于您未安装支付宝安全控件，可能导致浏览器提示该页面存在不安全内容。建议立即<a href="https://download.alipay.com/sec/edit/aliedit.exe" style="padding:0 5px;color:#1589c9;" target="_blank">安装支付宝安全控件</a>，以保护您的账户安全。      </div>
     </div>

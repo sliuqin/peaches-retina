@@ -102,6 +102,7 @@
     float: left;
     margin-right: 12px;
 }
+/* 
 .txt .txt-download .link .forapple {
     background: url(https://i.alipayobjects.com/e/201303/2Nw7ytLWPV.png) no-repeat 0 0;
 }
@@ -114,7 +115,7 @@
 .txt .txt-download .link .forandroid:hover {
     background: url(https://i.alipayobjects.com/e/201303/2Nw9ncDyKT.png) no-repeat 0 0;
 }
-
+*/
 .slide-1 .bg-1, .slide-1 .pic-1, .slide-1 .txt-1 { display: block; opacity: 1; }
 .slide-2 .bg-2, .slide-2 .pic-2, .slide-2 .txt-2 { display: block; opacity: 1; }
 .slide-3 .bg-3, .slide-3 .pic-3, .slide-3 .txt-3 { display: block; opacity: 1; }
